@@ -19,7 +19,7 @@ Additionally, if it is needed to refine your search, you can continue to enter a
 
 https://github.com/JohnJohnson913/UFOs/blob/main/Challenge_11_image_3.png?raw=true
 
-### In Summary, there are some dissadvantages to this process
+### In Summary, this is a great start to the site with further refinement in the future
 
 Though this site has makes searching for the information very easy, there are a few modifications that would likely make the page work even better.   For example, it's current functionality requires that the user needs to enter the proper capitlization for the items in the search criteria.  Thought this could likely be handled by a statement mentioning that all items need to be in lower case, at times it may present that no search results are available when in fact they are.  See the example image with an upper case "TX":
 
